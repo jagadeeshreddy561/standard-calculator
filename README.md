@@ -154,6 +154,7 @@ h1{
     font-size: 28px;
     font-family: 'Courier New', Courier, monospace;
 }
+```
 
 ## OUTPUT:
 ![cal1 1](https://user-images.githubusercontent.com/120623104/215334627-fd5e84bc-0907-4d0a-aa30-d891c81fb9e9.png)
